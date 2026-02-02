@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <b>⭐ 点击 <a href="https://github.com/Pangu-Immortal/actions_build_ErfanGSIs">Star</a>，关注不迷路 ⭐</b>
+  <b>🌟 如果觉得有帮助，请点击 <a href="https://github.com/Pangu-Immortal/actions_build_ErfanGSIs/stargazers">Star</a> 支持一下，关注不迷路！🌟</b>
 </p>
 
 ## 一个基于 Github Actions 制作的自动跑 ErfanGSIs 的脚本。 
