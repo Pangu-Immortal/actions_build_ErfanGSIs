@@ -8,6 +8,10 @@
 
 </div>
 
+<p align="center">
+  <b>⭐ 点击 <a href="https://github.com/Pangu-Immortal/actions_build_ErfanGSIs">Star</a>，关注不迷路 ⭐</b>
+</p>
+
 ## 一个基于 Github Actions 制作的自动跑 ErfanGSIs 的脚本。 
 ### 步骤如下： 
 - 首先，fork 这个仓库。 
